@@ -1,0 +1,4 @@
+# build 
+- cmake -GNinja ..
+
+- ninja
